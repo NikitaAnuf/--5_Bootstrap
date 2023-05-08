@@ -1,0 +1,15 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.slide {
+    width: 70%;
+    height: 500px;
+}
+ 
+.slide img {
+    width: 70%;
+    height: 500px;
+    object-fit: cover;
+    object-position: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
